@@ -1,0 +1,45 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[ngerman]{babel}
+\usepackage{geometry}
+\geometry{
+  left=2.5cm,
+  right=3.0cm,
+  top=2.5cm,
+  bottom=2.5cm
+}
+\usepackage{setspace}
+\usepackage{times}
+\usepackage{parskip}
+\usepackage{csquotes}
+\usepackage{graphicx}
+\usepackage[
+    colorlinks=true,
+    linkcolor=black,
+    citecolor=blue,
+    urlcolor=blue,
+    breaklinks=true
+]{hyperref}
+\usepackage[backend=biber,style=apa]{biblatex}
+\addbibresource{literature.bib}
+
+\setlength{\parindent}{0pt}
+\onehalfspacing % 1.5 line spacing
+
+\begin{document}
+
+\input{titlepage}
+\tableofcontents
+\newpage
+
+\input{sections/einleitung}
+\input{sections/hauptteil}
+\input{sections/schluss}
+
+\newpage
+\printbibliography
+
+\newpage
+\input{erklaerung}
+
+\end{document}

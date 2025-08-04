@@ -1,0 +1,37 @@
+# LaTeX build files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.run.xml
+*.synctex.gz
+*.toc
+*.out
+*.nav
+*.snm
+*.vrb
+*.fdb_latexmk
+*.figlist
+*.makefile
+*.figlist.old
+*.makefile.old
+
+# PDF output (optional - remove this line if you want to track PDFs)
+*.pdf
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~

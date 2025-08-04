@@ -1,4 +1,0 @@
-\babel@toc {ngerman}{}\relax 
-\contentsline {section}{\numberline {1}Einleitung}{2}{section.1}%
-\contentsline {section}{\numberline {2}Hauptteil}{2}{section.2}%
-\contentsline {section}{\numberline {3}Schluss}{2}{section.3}%

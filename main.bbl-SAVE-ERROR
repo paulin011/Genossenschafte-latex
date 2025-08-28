@@ -16,5 +16,286 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{blome-dreesGenossenschaftlicheGeschaeftsmodelleSemantik2023}{inbook}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=68b4ef5f37bc47b721a1730a2fced015}{%
+           family={Blome-Drees},
+           familyi={B\bibinithyphendelim D\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c30b8507b510c43ec24c8dffd725884}{%
+           family={Thimm},
+           familyi={T\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c72c8fdd636e81a350e68c3d76a53f3}{%
+           family={Wieg},
+           familyi={W\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{5}{}{%
+        {{hash=68b4ef5f37bc47b721a1730a2fced015}{%
+           family={Blome-Drees},
+           familyi={B\bibinithyphendelim D\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod}}}%
+        {{hash=0e2d6f6c9942c589d74adea55d3814dd}{%
+           family={Göler\bibnamedelimb von\bibnamedelima Ravensburg},
+           familyi={G\bibinitperiod\bibinitdelim v\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Nicole},
+           giveni={N\bibinitperiod}}}%
+        {{hash=ab06d7edf2e3a837abb75f12f60dfd52}{%
+           family={Jungmeister},
+           familyi={J\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=705607fd761c4ebc67e09041ccca5c03}{%
+           family={Schmale},
+           familyi={S\bibinitperiod},
+           given={Ingrid},
+           giveni={I\bibinitperiod}}}%
+        {{hash=0f089065337669ccb01c300e49559bae}{%
+           family={Schulz-Nieswandt},
+           familyi={S\bibinithyphendelim N\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien}%
+      }
+      \strng{namehash}{1a5b3f47a0a5c8e2ddce84020fa65c72}
+      \strng{fullhash}{af09974e34f839e726cf37f327639c57}
+      \strng{fullhashraw}{af09974e34f839e726cf37f327639c57}
+      \strng{bibnamehash}{af09974e34f839e726cf37f327639c57}
+      \strng{authorbibnamehash}{af09974e34f839e726cf37f327639c57}
+      \strng{authornamehash}{1a5b3f47a0a5c8e2ddce84020fa65c72}
+      \strng{authorfullhash}{af09974e34f839e726cf37f327639c57}
+      \strng{authorfullhashraw}{af09974e34f839e726cf37f327639c57}
+      \strng{editorbibnamehash}{557edc19fc61415c3743c441b988cfc1}
+      \strng{editornamehash}{1a5b3f47a0a5c8e2ddce84020fa65c72}
+      \strng{editorfullhash}{557edc19fc61415c3743c441b988cfc1}
+      \strng{editorfullhashraw}{557edc19fc61415c3743c441b988cfc1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Mit Hilfe der morphologisch-typologischen Methode wird im vorliegenden Beitrag ein generatives Sprachspiel für genossenschaftliche Geschäftsmodelle entwickelt. Dabei werden nicht bloß begriffliche und konzeptionelle Fragestellungen erörtert, sondern aus der Perspektive einer Besonderen Betriebswirtschaftslehre der Genossenschaften und normativen Morphologie auch Hilfestellungen für Praktiker geleistet.}
+      \field{booktitle}{Handbuch Genossenschaftswesen}
+      \field{isbn}{978-3-658-18626-5}
+      \field{langid}{ngerman}
+      \field{title}{Genossenschaftliche Geschäftsmodelle – Semantik, Morphologie und Typologie}
+      \field{urlday}{1}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{363\bibrangedash 409}
+      \range{pages}{47}
+      \verb{doi}
+      \verb 10.1007/978-3-658-18626-5_18
+      \endverb
+      \verb{file}
+      \verb /home/paulin/Zotero/storage/7TWSCUXU/Blome-Drees et al. - 2023 - Genossenschaftliche Geschäftsmodelle – Semantik, Morphologie und Typologie.ocr.pdf;/home/paulin/Zotero/storage/INQPSPYX/Blome-Drees et al. - 2023 - Genossenschaftliche Geschäftsmodelle – Semantik, Morphologie und Typologie.pdf;/home/paulin/Zotero/storage/342RICGQ/page-1.html;/home/paulin/Zotero/storage/ISZ999ES/page-4.html;/home/paulin/Zotero/storage/NFNZAXF3/page-2.html;/home/paulin/Zotero/storage/QQYT26VD/page-5.html;/home/paulin/Zotero/storage/SEA2Y7Y3/page-3.html
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-658-18626-5_18
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-658-18626-5_18
+      \endverb
+      \keyw{Genossenschaften,Genossenschaftliche Geschäftsmodelle,Geschäftsmodelle,Morphologie,Typologie}
+    \endentry
+    \entry{mayring2010}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=354e18c4014b84fb9bd1af1fc4d7371e}{%
+           family={Mayring},
+           familyi={M\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Weinheim}%
+      }
+      \list{publisher}{1}{%
+        {Beltz}%
+      }
+      \strng{namehash}{354e18c4014b84fb9bd1af1fc4d7371e}
+      \strng{fullhash}{354e18c4014b84fb9bd1af1fc4d7371e}
+      \strng{fullhashraw}{354e18c4014b84fb9bd1af1fc4d7371e}
+      \strng{bibnamehash}{354e18c4014b84fb9bd1af1fc4d7371e}
+      \strng{authorbibnamehash}{354e18c4014b84fb9bd1af1fc4d7371e}
+      \strng{authornamehash}{354e18c4014b84fb9bd1af1fc4d7371e}
+      \strng{authorfullhash}{354e18c4014b84fb9bd1af1fc4d7371e}
+      \strng{authorfullhashraw}{354e18c4014b84fb9bd1af1fc4d7371e}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{11}
+      \field{isbn}{978-3-407-25533-4}
+      \field{langid}{ngerman}
+      \field{title}{Qualitative Inhaltsanalyse: Grundlagen und Techniken}
+      \field{year}{2010}
+      \field{dateera}{ce}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{blome-dreesGenossenschaftlicheGeschaeftsmodelleSemantik2023}{inbook}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=68b4ef5f37bc47b721a1730a2fced015}{%
+           family={Blome-Drees},
+           familyi={B\bibinithyphendelim D\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c30b8507b510c43ec24c8dffd725884}{%
+           family={Thimm},
+           familyi={T\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c72c8fdd636e81a350e68c3d76a53f3}{%
+           family={Wieg},
+           familyi={W\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{5}{}{%
+        {{hash=68b4ef5f37bc47b721a1730a2fced015}{%
+           family={Blome-Drees},
+           familyi={B\bibinithyphendelim D\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod}}}%
+        {{hash=0e2d6f6c9942c589d74adea55d3814dd}{%
+           family={Göler\bibnamedelimb von\bibnamedelima Ravensburg},
+           familyi={G\bibinitperiod\bibinitdelim v\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Nicole},
+           giveni={N\bibinitperiod}}}%
+        {{hash=ab06d7edf2e3a837abb75f12f60dfd52}{%
+           family={Jungmeister},
+           familyi={J\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=705607fd761c4ebc67e09041ccca5c03}{%
+           family={Schmale},
+           familyi={S\bibinitperiod},
+           given={Ingrid},
+           giveni={I\bibinitperiod}}}%
+        {{hash=0f089065337669ccb01c300e49559bae}{%
+           family={Schulz-Nieswandt},
+           familyi={S\bibinithyphendelim N\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien}%
+      }
+      \strng{namehash}{1a5b3f47a0a5c8e2ddce84020fa65c72}
+      \strng{fullhash}{af09974e34f839e726cf37f327639c57}
+      \strng{fullhashraw}{af09974e34f839e726cf37f327639c57}
+      \strng{bibnamehash}{af09974e34f839e726cf37f327639c57}
+      \strng{authorbibnamehash}{af09974e34f839e726cf37f327639c57}
+      \strng{authornamehash}{1a5b3f47a0a5c8e2ddce84020fa65c72}
+      \strng{authorfullhash}{af09974e34f839e726cf37f327639c57}
+      \strng{authorfullhashraw}{af09974e34f839e726cf37f327639c57}
+      \strng{editorbibnamehash}{557edc19fc61415c3743c441b988cfc1}
+      \strng{editornamehash}{1a5b3f47a0a5c8e2ddce84020fa65c72}
+      \strng{editorfullhash}{557edc19fc61415c3743c441b988cfc1}
+      \strng{editorfullhashraw}{557edc19fc61415c3743c441b988cfc1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Mit Hilfe der morphologisch-typologischen Methode wird im vorliegenden Beitrag ein generatives Sprachspiel für genossenschaftliche Geschäftsmodelle entwickelt. Dabei werden nicht bloß begriffliche und konzeptionelle Fragestellungen erörtert, sondern aus der Perspektive einer Besonderen Betriebswirtschaftslehre der Genossenschaften und normativen Morphologie auch Hilfestellungen für Praktiker geleistet.}
+      \field{booktitle}{Handbuch Genossenschaftswesen}
+      \field{isbn}{978-3-658-18626-5}
+      \field{langid}{ngerman}
+      \field{title}{Genossenschaftliche Geschäftsmodelle – Semantik, Morphologie und Typologie}
+      \field{urlday}{1}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{363\bibrangedash 409}
+      \range{pages}{47}
+      \verb{doi}
+      \verb 10.1007/978-3-658-18626-5_18
+      \endverb
+      \verb{file}
+      \verb /home/paulin/Zotero/storage/7TWSCUXU/Blome-Drees et al. - 2023 - Genossenschaftliche Geschäftsmodelle – Semantik, Morphologie und Typologie.ocr.pdf;/home/paulin/Zotero/storage/INQPSPYX/Blome-Drees et al. - 2023 - Genossenschaftliche Geschäftsmodelle – Semantik, Morphologie und Typologie.pdf;/home/paulin/Zotero/storage/342RICGQ/page-1.html;/home/paulin/Zotero/storage/ISZ999ES/page-4.html;/home/paulin/Zotero/storage/NFNZAXF3/page-2.html;/home/paulin/Zotero/storage/QQYT26VD/page-5.html;/home/paulin/Zotero/storage/SEA2Y7Y3/page-3.html
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-658-18626-5_18
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-658-18626-5_18
+      \endverb
+      \keyw{Genossenschaften,Genossenschaftliche Geschäftsmodelle,Geschäftsmodelle,Morphologie,Typologie}
+    \endentry
+    \entry{mayring2010}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=354e18c4014b84fb9bd1af1fc4d7371e}{%
+           family={Mayring},
+           familyi={M\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Weinheim}%
+      }
+      \list{publisher}{1}{%
+        {Beltz}%
+      }
+      \strng{namehash}{354e18c4014b84fb9bd1af1fc4d7371e}
+      \strng{fullhash}{354e18c4014b84fb9bd1af1fc4d7371e}
+      \strng{fullhashraw}{354e18c4014b84fb9bd1af1fc4d7371e}
+      \strng{bibnamehash}{354e18c4014b84fb9bd1af1fc4d7371e}
+      \strng{authorbibnamehash}{354e18c4014b84fb9bd1af1fc4d7371e}
+      \strng{authornamehash}{354e18c4014b84fb9bd1af1fc4d7371e}
+      \strng{authorfullhash}{354e18c4014b84fb9bd1af1fc4d7371e}
+      \strng{authorfullhashraw}{354e18c4014b84fb9bd1af1fc4d7371e}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{11}
+      \field{isbn}{978-3-407-25533-4}
+      \field{langid}{ngerman}
+      \field{title}{Qualitative Inhaltsanalyse: Grundlagen und Techniken}
+      \field{year}{2010}
+      \field{dateera}{ce}
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 

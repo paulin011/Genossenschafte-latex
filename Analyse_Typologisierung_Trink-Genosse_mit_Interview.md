@@ -91,7 +91,7 @@ Basierend auf dem theoretischen Rahmen von Blome-Drees et al. (2023) werden die 
 
 * **Kooperationspartner:** Die Genossenschaft ist gut vernetzt und arbeitet mit **verbundexternen Partnern**. Die Kooperationen sind oft ideeller Natur, wie die Unterstützung des Wohnprojekts „Petershof“ durch den Kauf von Genossenschaftsanteilen oder das Sponsoring des Sportvereins „Roter Stern“. Dies zeigt, dass Partnerschaften nicht nur aus ökonomischem Kalkül, sondern auch aus gemeinsamer Wertorientierung eingegangen werden.
 
-* **Vertriebskanäle:** Eine **Multikanalstrategie** kombiniert **analoge** (die physische Bar) und **digitale** Kanäle. Die Website dient als Informationsplattform, während interne Tools wie RocketChat entscheidend für die Organisation, Kommunikation und damit für die Wertschöpfung sind.
+* **Vertriebskanäle:** Eine **Multikanalstrategie** kombiniert **analoge** (die physische Bar) und **digitale** Kanäle. Die Website dient als Informationsplattform, während interne Tools wie RocketChat und der Email-Newsletter sind entscheidend für die Organisation, Kommunikation und damit für die Wertschöpfung sind.
 
 * **Ressourcen:** Die wichtigste Ressource ist das **immaterielle Kapital**. Das **Sozialkapital** (Gemeinschaft, Vertrauen, Netzwerk) und das **Humankapital** (Wissen, Engagement und ehrenamtliche Arbeit der Mitglieder) sind die eigentlichen Treiber der Genossenschaft. Das **Finanzkapital** speist sich hauptsächlich aus den Genossenschaftsanteilen der Mitglieder sowie aus Fördermitgliedschaften. Das **Sachkapital** ist die Bar-Ausstattung.
 
